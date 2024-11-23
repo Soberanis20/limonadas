@@ -1,0 +1,14 @@
+C:\Users\Javy\source\repos\limonadas\limonadas\bin\Debug\net8.0\limonadas.exe
+C:\Users\Javy\source\repos\limonadas\limonadas\bin\Debug\net8.0\limonadas.deps.json
+C:\Users\Javy\source\repos\limonadas\limonadas\bin\Debug\net8.0\limonadas.runtimeconfig.json
+C:\Users\Javy\source\repos\limonadas\limonadas\bin\Debug\net8.0\limonadas.dll
+C:\Users\Javy\source\repos\limonadas\limonadas\bin\Debug\net8.0\limonadas.pdb
+C:\Users\Javy\source\repos\limonadas\limonadas\obj\Debug\net8.0\limonadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javy\source\repos\limonadas\limonadas\obj\Debug\net8.0\limonadas.AssemblyInfoInputs.cache
+C:\Users\Javy\source\repos\limonadas\limonadas\obj\Debug\net8.0\limonadas.AssemblyInfo.cs
+C:\Users\Javy\source\repos\limonadas\limonadas\obj\Debug\net8.0\limonadas.csproj.CoreCompileInputs.cache
+C:\Users\Javy\source\repos\limonadas\limonadas\obj\Debug\net8.0\limonadas.dll
+C:\Users\Javy\source\repos\limonadas\limonadas\obj\Debug\net8.0\refint\limonadas.dll
+C:\Users\Javy\source\repos\limonadas\limonadas\obj\Debug\net8.0\limonadas.pdb
+C:\Users\Javy\source\repos\limonadas\limonadas\obj\Debug\net8.0\limonadas.genruntimeconfig.cache
+C:\Users\Javy\source\repos\limonadas\limonadas\obj\Debug\net8.0\ref\limonadas.dll
